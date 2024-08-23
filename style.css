@@ -1,0 +1,26 @@
+.container {
+    width: 100%;
+    background-color: lightgrey;
+}
+
+.left, .center, .right {
+    padding: 20px;
+    background-color: lightblue;
+}
+
+.left {
+    float: left;
+    width: 30%;
+}
+
+.center {
+    float: left;
+    width: 40%;
+}
+
+.right {
+    float: left;
+    width: 30%;
+}
+
+
